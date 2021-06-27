@@ -45,7 +45,7 @@ body {
   }
 }
 h1 {
-  transform: translateZ(5vw);
+  transform: translateZ(4.5vw);
   margin: 0;
   font-size: 5vw;
   font-weight: normal;
